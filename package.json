@@ -1,0 +1,25 @@
+{
+  "name": "vue-trello-clone",
+  "dependencies": {
+    "@rails/webpacker": "^5.2.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^14.2.2",
+    "vue-sweetalert2": "^1.5.11",
+    "vue-template-compiler": "^2.5.17",
+    "vue-turbolinks": "^2.0.3",
+    "vuedraggable": "^2.17.0",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "cssnano": "^4.1.10",
+    "mini-css-extract-plugin": "^1.2.0",
+    "node-sass": "^4.14.1",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^13.0.0",
+    "postcss-loader": "^4.0.4",
+    "sass-loader": "^7.0.1",
+    "sugarss": "^3.0.1",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
