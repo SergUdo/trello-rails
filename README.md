@@ -4,10 +4,10 @@ Tutorial : https://gorails.com/episodes/rails-vuejs-trello-clone-part-1
 
 Used  :
 
-..*Rails 6.0.2.
-..*Vue.JS.
-..*PostgeSQL.
-..*Redis.
+* Rails 6.0.2.
+* Vue.JS.
+* PostgeSQL.
+* Redis.
 
 ## Launching
 
